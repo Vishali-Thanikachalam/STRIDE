@@ -82,17 +82,6 @@ pip install -r requirements.txt
 python main.py --port COMx --baud 115200
 ```
 
----
-
-## UART Commands
-
-```text
-status
-obstacle 15
-blindspot on
-fault inject motor
-fault clear
-```
 
 ---
 
