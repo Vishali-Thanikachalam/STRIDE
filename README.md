@@ -58,7 +58,8 @@ stride/
 ├── docs/
 ├── firmware/
 ├── dashboard/
-├── simulation/
+├── picsimlab/
+└── stride_simulation.pcf
 └── tests/
 ```
 
